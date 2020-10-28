@@ -7,3 +7,5 @@ cmake_install.cmake
 Makefile
 lab-03---github-flow-cdo032-galva041
 main
+a.out
+lib/
