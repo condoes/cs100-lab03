@@ -1,7 +1,5 @@
 #include <iostream>
 
-#include <iostream>
-
 unsigned int count(const std::string& str) {
     unsigned int counter = 0;
     bool on_space = true;
@@ -16,5 +14,5 @@ unsigned int count(const std::string& str) {
     }
 
     return counter;
-}
 
+}
