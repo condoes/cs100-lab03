@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 c-echo-count
 test
 
@@ -5,3 +6,6 @@ CMakeCache.txt
 CMakeFiles/
 cmake_install.cmake
 Makefile
+=======
+main
+>>>>>>> f834c90fd163667ffb85e3b01c308619b8291117
